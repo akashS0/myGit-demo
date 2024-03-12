@@ -1,4 +1,4 @@
 # myGit-demo
 For tutorial
 <br>
-author - Akash Singh
+author - Akash Singh(student)
